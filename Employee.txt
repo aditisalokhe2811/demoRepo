@@ -1,0 +1,5 @@
+Emp id =101;
+Emp name= Aditi;
+Emp salary=50000;
+Emp location=Kolhapurpur;
+Emp Dob=23-8-2019;
